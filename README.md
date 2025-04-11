@@ -1,2 +1,3 @@
 # TrashyGameBuilds
  
+Its a TrashyGame
